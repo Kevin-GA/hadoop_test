@@ -1,0 +1,7 @@
+# Project exclude paths
+/es/target/
+/flink/target/
+/flinkSinkEsDemo/target/
+/flinkSqlHbase/target/
+/kafka/target/
+/out/
